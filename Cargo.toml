@@ -1,0 +1,7 @@
+[package]
+authors = ["Charlie Maddex <charlie@maddex.co>"]
+description = "Lookup domain names with wildcard support"
+name = "domain-lookup"
+version = "0.1.0"
+edition = "2021"
+repository = "https://github.com/name/domain-lookup"
